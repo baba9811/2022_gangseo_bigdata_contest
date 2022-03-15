@@ -1,0 +1,2 @@
+# 2022_gangseo_bigdata_contest
+gangseo_bigdata_contest
